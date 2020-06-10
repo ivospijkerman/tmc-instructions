@@ -25,9 +25,9 @@ using a different laptop or by running a VM. I had great results by using Ubuntu
 ##### Q: I'm already using a more recent version of IntelliJ IDEA, can I use that one instead?
 NO! Something broke in the backwards compatibility when IntelliJ IDEA moved to 2019.x and higher. However, you can run 
 multiple IntelliJ IDEA installations on the same computer without issues. I have two installations on my machine,
-and to help keep them apart. I have setup one of them in dark mode, and the other one in light mode.
+and to help keep them apart I have setup one of them in dark mode, and the other one in light mode.
 
-##### Q: Why aren't we using Netbeans, while Intellik is constantly showing a BETA warning?
+##### Q: Why aren't we using Netbeans, while Intellij is constantly showing a BETA warning?
 The TMC people are currently doing an overhaul and I could not find the Netbeans plugin. I know that the Intellij one
 still works when following a strict set of rules, so this is this is now the recommended path.
 
